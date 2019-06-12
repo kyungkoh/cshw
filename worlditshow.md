@@ -47,6 +47,8 @@ SK나 KT같은 회사에서 5G 기술을 선보이고 있었다.
 
 기회가 된다면 내년에도 참가 하고 싶은 생각이 들었다. 
 
-![first](/C:\Users\kyung\OneDrive\문서\카카오톡 받은 파일\first.jpg)
-![second](/C:\Users\kyung\OneDrive\문서\카카오톡 받은 파일\second.jpg)
-![third](/C:\Users\kyung\OneDrive\문서\카카오톡 받은 파일\third.jpg)
+![first](./img/first.jpg)
+
+![second](./img/second.jpg)
+
+![third](./img/third.jpg)
